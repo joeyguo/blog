@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>包装方式</title>
+</head>
+<body>
+<script>
+	var body = document.querySelector('body'),
+		newNode = null,
+        append = function(str){
+    		newNode = document.createElement("p");
+    		newNode.innerHTML = str;
+    		body.appendChild(newNode);
+    	};
+	
+    // 原对象
+    var historyModule = {
+        listener: [],
+        listen: function (listener) {
+            this.listener.push(listener);
+            append('historyModule listen.')
+        },
+        updateLocation: function(){
+            append('historyModule updateLocation tirgger.');
+            this.listener.forEach(function(listener){
+                listener('new localtion');
+            })
+        }
+    }
+
+    // Router 将使用 historyModule 对象，并对其包装
+    var Router = {
+        source: {},
+        init: function(source){
+            this.source = source;
+        },
+        listen: function(listener) {
+            append('Router listen.');
+            // 对 historyModule的listen进行了一层包装
+            return this.source.listen(function(location){
+                append('Router listen tirgger.');
+                listener(location);
+            })
+        }
+    }
+
+    // 将 historyModule 注入进 Router 中
+    Router.init(historyModule);
+
+    // Router 注册监听
+    Router.listen(function(location){
+        append(location + '-> Router setState.');
+    })
+
+    // historyModule 触发监听回调
+    historyModule.updateLocation();
+</script>
+</body>
+</html>

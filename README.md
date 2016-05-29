@@ -1,4 +1,5 @@
 # joey's blog
+#### 建议 star & watch，不建议 fork，因为该 blog 将持续更新~
 
 ### React 相关
 [前端路由实现与 react-router 源码分析](https://github.com/joeyguo/blog/issues/2)

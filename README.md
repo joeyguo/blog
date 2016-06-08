@@ -15,6 +15,6 @@ joeyguo，腾讯AlloyTeam前端工程师。博文大多结合在 QQ Web 上的�
 * 劫持上报的进一步方案+CSP与HTTPS实践总结\(coming soon)
 
 ## Web 性能优化 - 手Q web 实践总结
-* [Web性能优化之 “直出” 理论与实践总结](https://github.com/joeyguo/blog/issues/8)
-* [Web性能优化之 服务端渲染 React 同构直出](https://github.com/joeyguo/blog/issues/9)
-* Web性能优化之 直出（服务端渲染）“再” 优化\(coming soon)
+* [Node直出理论与实践总结](https://github.com/joeyguo/blog/issues/8)
+* [React同构直出实践总结](https://github.com/joeyguo/blog/issues/9)
+* Node直出(服务端渲染)再优化\(coming soon)

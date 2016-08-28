@@ -21,4 +21,4 @@
 * Node直出(服务端渲染)再优化\(coming soon)
 
 ### 分享
-* [《React同构直出优化》PPT](http://share.weiyun.com/154d5ef15b19d4c1523f2fa9bff58ae2)
+* [《React同构直出优化》PPT](http://share.weiyun.com/3676857519cbbf58858cb15cd6402f8b)

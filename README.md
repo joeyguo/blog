@@ -20,6 +20,5 @@
 * [React同构直出优化总结](https://github.com/joeyguo/blog/issues/9)
 * Node直出(服务端渲染)再优化\(coming soon)
 
-### 分享(PPT)
-《React同构直出优化》
-* http://share.weiyun.com/154d5ef15b19d4c1523f2fa9bff58ae2
+### 分享
+* [《React同构直出优化》PPT](http://share.weiyun.com/154d5ef15b19d4c1523f2fa9bff58ae2)

@@ -1,17 +1,20 @@
 # joeyguo's blog
 >关注 ES6、React、Redux、Webpack、性能优化、HTTPS/HTTP2 等
 
-####| React 相关
+####| React
 
 * [前端路由实现与 react-router 源码分析](https://github.com/joeyguo/blog/issues/2)
 * [React 数据流管理架构之 Redux](https://github.com/joeyguo/blog/issues/3)
 * React理论与实践经验总结\(coming soon)
 
-####| Webpack 相关
+####| Webpack
 * [Webpack 常见问题与解答](https://github.com/joeyguo/blog/issues/7)
 * [如何开发一个 Webpack Loader ( 一 )](https://github.com/joeyguo/blog/issues/4)
 
-####| CSP 与 HTTPS 相关
+####| RxJS
+* [构建流式应用—RxJS详解](https://github.com/joeyguo/blog/issues/11)
+
+####| CSP & HTTPS
 * [XSS终结者-CSP理论与实践](https://github.com/joeyguo/blog/issues/5)
 * 劫持上报的进一步方案+CSP与HTTPS实践总结\(coming soon)
 
@@ -21,7 +24,4 @@
 * Node直出(服务端渲染)再优化\(coming soon)
 
 ####| 综合
-* [谈谈函数式编程 ( Functional Programming ) ](https://github.com/joeyguo/blog/issues/10#issuecomment-247827832)
-
-####| 分享
-* [《React同构直出优化》PPT](http://share.weiyun.com/3676857519cbbf58858cb15cd6402f8b)
+* [谈谈函数式编程 ( Functional Programming ) ](https://github.com/joeyguo/blog/issues/10)

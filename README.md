@@ -1,11 +1,18 @@
 # joeyguo's blog
 >关注 ES6、React、Redux、Webpack、性能优化、HTTPS/HTTP2 等
 
+#### | gka
+
+简单的、高效的帧动画生成工具
+
+* [快速制作高性能帧动画解决方案](https://github.com/joeyguo/blog/issues/17)
+* [一键制作自适应等比缩放的雪碧图动画](https://github.com/joeyguo/blog/issues/16)
+* [[高效开发]与设计姐的图片二三事](http://www.alloyteam.com/2017/07/gka2/)
+
 #### | React
 
 * [前端路由实现与 react-router 源码分析](https://github.com/joeyguo/blog/issues/2)
 * [React 数据流管理架构之 Redux](https://github.com/joeyguo/blog/issues/3)
-* React理论与实践经验总结\(coming soon)
 
 #### | RxJS
 * [构建流式应用—RxJS详解](https://github.com/joeyguo/blog/issues/11)

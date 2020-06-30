@@ -25,6 +25,7 @@
 #### | 脚本错误量极致优化
 * [脚本错误量极致优化-监控上报与Script error](https://github.com/joeyguo/blog/issues/13)
 * [脚本错误量极致优化-让脚本错误一目了然](https://github.com/joeyguo/blog/issues/14)
+* [脚本错误量极致优化-定位压缩且无SourceMap文件的脚本错误](https://github.com/joeyguo/blog/issues/23)
 
 #### | Webpack
 * [Webpack 打包后代码执行时机分析与优化](https://github.com/joeyguo/blog/issues/21)

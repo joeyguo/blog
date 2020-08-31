@@ -34,6 +34,7 @@
 
 #### | CSP & HTTPS
 * [XSS终结者-CSP理论与实践](https://github.com/joeyguo/blog/issues/5)
+* [Csp Nonce - 守护你的 inline Scirpt](https://github.com/joeyguo/blog/issues/24)
 * 劫持上报的进一步方案+CSP与HTTPS实践总结\(coming soon)
 
 #### | 综合

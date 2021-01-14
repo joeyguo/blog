@@ -4,6 +4,7 @@
 #### | 可用性提升
 
 * [前端资源加载失败优化](https://github.com/joeyguo/blog/issues/25)
+* [提高资源的安全性 - SRI 与 CSP](https://github.com/joeyguo/blog/issues/26)
 
 #### | 脚本错误量极致优化
 
